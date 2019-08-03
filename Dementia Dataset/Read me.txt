@@ -1,0 +1,10 @@
+﻿This dataset was collected from patients during picture description task 
+"cookie theft picture description" for a period of five years. 
+The recordings were transcribed manually for research purposes. 
+I have attached these transcripts, and will share the folder of audio files 
+once we need it because of its size "around 4.5 GB". 
+
+Please note that the not-preprocessed data has more 
+dataset for different tasks. Please see them as they might be helpful to our model.
+
+
