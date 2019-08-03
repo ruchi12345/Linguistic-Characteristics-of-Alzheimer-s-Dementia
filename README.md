@@ -1,6 +1,6 @@
 # Linguistic-Characteristics-of-Alzheimer-s-Dementia
 
-In this repo, I have used the dataset which I have provided inthe dataset folder. you can download the datset from here. https://dementia.talkbank.org/
+In this repo, I have used the dataset which I have provided inthe dataset folder. you can download the dataset from here. https://dementia.talkbank.org/
 
 Dataset shall be taken in some control environment nd all the reponses should be written in txt.
 
